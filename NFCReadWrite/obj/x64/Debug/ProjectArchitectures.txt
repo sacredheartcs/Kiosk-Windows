@@ -1,0 +1,1 @@
+C:\Users\Tracy Nham\documents\visual studio 2015\Projects\NFCReadWrite\NFCReadWrite\NFCReadWrite.csproj;x64

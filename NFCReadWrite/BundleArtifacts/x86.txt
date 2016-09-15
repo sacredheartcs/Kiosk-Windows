@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Tracy Nham\documents\visual studio 2015\Projects\NFCReadWrite\NFCReadWrite\bin\x86\Debug\NFCReadWrite_1.0.0.0_x86_Debug.appx
+SymbolPackage=C:\Users\Tracy Nham\documents\visual studio 2015\Projects\NFCReadWrite\NFCReadWrite\AppPackages\NFCReadWrite_1.0.0.0_Debug_Test\NFCReadWrite_1.0.0.0_x86_Debug.appxsym

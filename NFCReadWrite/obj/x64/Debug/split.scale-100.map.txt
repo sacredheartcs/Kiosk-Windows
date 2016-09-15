@@ -1,0 +1,8 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-100"
+"ResourceDimensions"		"scale-100"
+
+[Files]
+"C:\Users\Tracy Nham\documents\visual studio 2015\Projects\NFCReadWrite\NFCReadWrite\obj\x64\Debug\split.scale-100.pri"			"resources.pri"
+"C:\Users\Tracy Nham\documents\visual studio 2015\Projects\NFCReadWrite\NFCReadWrite\obj\x64\Debug\PackageLayout\Assets\SplashScreen.scale-100.png"			"Assets\SplashScreen.scale-100.png"
+"C:\Users\Tracy Nham\documents\visual studio 2015\Projects\NFCReadWrite\NFCReadWrite\obj\x64\Debug\PackageLayout\Assets\splash-screen.scale-100.png"			"Assets\splash-screen.scale-100.png"

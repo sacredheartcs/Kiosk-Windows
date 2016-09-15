@@ -1,0 +1,3 @@
+MainPackage=C:\Users\Tracy Nham\documents\visual studio 2015\Projects\NFCReadWrite\NFCReadWrite\bin\ARM\Debug\NFCReadWrite_1.0.0.0_ARM_Debug.appx
+SymbolPackage=C:\Users\Tracy Nham\documents\visual studio 2015\Projects\NFCReadWrite\NFCReadWrite\AppPackages\NFCReadWrite_1.0.0.0_Debug_Test\NFCReadWrite_1.0.0.0_ARM_Debug.appxsym
+ResourcePack=C:\Users\Tracy Nham\documents\visual studio 2015\Projects\NFCReadWrite\NFCReadWrite\bin\ARM\Debug\NFCReadWrite_1.0.0.0_scale-100.appx
