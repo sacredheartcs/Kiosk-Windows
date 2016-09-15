@@ -1,0 +1,32 @@
+﻿<Page
+    x:Class="NFCReadWrite.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:NFCReadWrite"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+  <Page.Resources>
+    <ResourceDictionary Source = "Styles/Custom.xaml" />
+  </Page.Resources>
+
+  <Grid>
+    <SplitView x:Name="MySplitView" DisplayMode="CompactInline" IsPaneOpen="False"
+           CompactPaneLength="105" OpenPaneLength="260">
+      <SplitView.Pane>
+        <StackPanel Background="WhiteSmoke">
+          <Button x:Name="HamburgerButton" Background ="Transparent" FontFamily="Segoe MDL2 Assets" Click="HamburgerButton_Click" Margin="15,10,10,10" FontSize="50" Content="&#xE700;"></Button>
+          <RadioButton x:Name="ReadButton" Click="ReadButton_Click" Style="{StaticResource NavRadioButtonStyle}" Tag="&#xE1A6;" Content="Read Tag" GroupName="Navigation"/>
+          <RadioButton x:Name="WriteButton" Click="WriteButton_Click" Style="{StaticResource NavRadioButtonStyle}" Tag="&#xE70F;" Content="Write Tag" GroupName="Navigation"/>
+        </StackPanel>
+      </SplitView.Pane>
+      <SplitView.Content>
+        <Frame Name="ContentFrame">
+        </Frame>
+
+      </SplitView.Content>
+    </SplitView>
+  </Grid>
+
+</Page>
